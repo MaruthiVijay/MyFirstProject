@@ -1,7 +1,7 @@
 ﻿<#
 .SYNOPSIS 
 Deploys a Service Fabric application type to a cluster.
-
+Added
 .DESCRIPTION
 This script deploys a Service Fabric application type to a cluster.  It is invoked by Visual Studio when deploying a Service Fabric Application project.
 
